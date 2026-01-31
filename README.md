@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pradhuman Singh</h1>
-<h3 align="center">🚀 CSE Student | AI & ML Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">🚀 CSE Student | AI & ML Enthusiast</h3>
 
 ---
 
